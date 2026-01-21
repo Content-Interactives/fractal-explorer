@@ -19,7 +19,7 @@ This interactive is currently featured in the following locations:
   - 👉 PRODUCTION: [https://ck12.co/aUaJ](https://ck12.co/aUaJ)
   - 👉 MASTER: N/A  
 - 📘 **CK-12 Flexbooks**
-  - 👉 PENDING
+  - 👉 7.13 Self-Similarity: [https://flexbooks.ck12.org/cbook/ck-12-basic-geometry-concepts/section/7.13/primary/lesson/self-similarity-bsc-geom/](https://flexbooks.ck12.org/cbook/ck-12-basic-geometry-concepts/section/7.13/primary/lesson/self-similarity-bsc-geom/)
 
 ---
 
